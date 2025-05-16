@@ -1,0 +1,47 @@
+[NIFRA] Starting production security testing on https://reyralabs.com
+
+[NIFRA] Iteration 1/5 for https://reyralabs.com
+[NIFRA] Iteration 1 completed in 91.00 seconds
+[NIFRA] Status: FAILED
+[NIFRA] Framework: wordpress
+[NIFRA] Reward: 0.12
+[NIFRA] Summary: No clear vulnerability detected. The target handled the input appropriately.
+[NIFRA] Pausing before next iteration...
+
+[NIFRA] Iteration 2/5 for https://reyralabs.com
+[NIFRA] Iteration 2 completed in 63.38 seconds
+[NIFRA] Status: FAILED
+[NIFRA] Framework: wordpress
+[NIFRA] Reward: 0.01
+[NIFRA] Summary: No clear vulnerability detected. The target handled the input appropriately.
+[NIFRA] Pausing before next iteration...
+
+[NIFRA] Iteration 3/5 for https://reyralabs.com
+[NIFRA] Iteration 3 completed in 72.63 seconds
+[NIFRA] Status: FAILED
+[NIFRA] Framework: wordpress
+[NIFRA] Reward: 0.26
+[NIFRA] Summary: No clear vulnerability detected. The target handled the input appropriately.
+[NIFRA] Pausing before next iteration...
+
+[NIFRA] Iteration 4/5 for https://reyralabs.com
+[NIFRA] Iteration 4 completed in 85.31 seconds
+[NIFRA] Status: FAILED
+[NIFRA] Framework: wordpress
+[NIFRA] Reward: 0.33
+[NIFRA] Summary: No clear vulnerability detected. The target handled the input appropriately.
+[NIFRA] Pausing before next iteration...
+
+[NIFRA] Iteration 5/5 for https://reyralabs.com
+[NIFRA] Iteration 5 completed in 80.24 seconds
+[NIFRA] Status: FAILED
+[NIFRA] Framework: wordpress
+[NIFRA] Reward: 0.27
+[NIFRA] Summary: No clear vulnerability detected. The target handled the input appropriately.
+
+[NIFRA] Testing Summary
+Total Injections: 1
+Total Vulnerabilities: 0
+Average Reward: 0.1980
+
+[NIFRA] Testing Completed

@@ -1,0 +1,9 @@
+{
+  "name": "Target URL",
+  "url": "https://desa.reyralabs.com",
+  "framework": "unknown",
+  "enabled": true,
+  "priority": 1,
+  "type": "web",
+  "scan_limit": 5
+}

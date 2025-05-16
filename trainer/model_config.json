@@ -1,0 +1,6 @@
+{
+  "attack_model": "deepseek-coder:base",
+  "defense_model": "mistral:instruct",
+  "reasoner_model": "openhermes",
+  "evaluator_model": "openhermes"
+}
